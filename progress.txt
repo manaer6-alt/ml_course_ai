@@ -1,0 +1,14 @@
+| Topic | Article | Video | Notebook run | Demo assignment | Bonus/Kaggle | Notes | Report | Status |
+|---|---:|---:|---:|---:|---:|---:|---:|---|
+| 00 Intro | ✅ | ✅ | — | — | — | ✅ | ✅ | Done |
+| 01 Pandas | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not started |
+| 02 Visual Data Analysis | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not started |
+| 03 Trees / KNN / CV | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not started |
+| 04 Linear Models | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not started |
+| 05 Random Forest | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not started |
+| 06 Feature Engineering | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not started |
+| 07 Unsupervised Learning | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not started |
+| 08 SGD / Vowpal Wabbit | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not started |
+| 09 Time Series | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not started |
+| 10 Gradient Boosting | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not started |
+
