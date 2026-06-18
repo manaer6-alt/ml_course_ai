@@ -1,28 +1,46 @@
-| Topic | Article | Video | Notebook run | Demo assignment | Bonus/Kaggle | Notes | Report | Status |
-|---|---:|---:|---:|---:|---:|---:|---:|---|
-| 00 Intro | ✅ | ✅ | — | — | — | ✅ | ✅ | Done |
-| 01 Pandas | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not started |
-| 02 Visual Data Analysis | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not started |
-| 03 Trees / KNN / CV | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not started |
-| 04 Linear Models | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not started |
-| 05 Random Forest | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not started |
-| 06 Feature Engineering | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not started |
-| 07 Unsupervised Learning | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not started |
-| 08 SGD / Vowpal Wabbit | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not started |
-| 09 Time Series | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not started |
-| 10 Gradient Boosting | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not started |
+﻿mlcourse.ai progress
 
+Stage 0 - Repository setup: DONE / APPROVED
 
-[APPROVED] Stage 0 — Course repository setup
+Completed:
+- local repository created;
+- Git initialized;
+- develop branch created;
+- GitHub push completed;
+- base course structure created.
 
-Done:
-- local repo created
-- Git initialized
-- develop branch created
-- GitHub push completed
-- base course structure created
+Stage 1 - Intro / Lecture 0: DONE
 
-Next:
-- Intro / Lecture 0
+Completed:
+- intro material analyzed;
+- course structure documented;
+- study rules documented;
+- note-taking format documented;
+- reporting format documented;
+- preparation for Topic 1 documented.
+
+Updated files:
 - notes/00_intro.md
+- learning_log.md
+- progress.txt
 - reports/00_intro_report.md
+
+Current branch:
+develop
+
+Next stage:
+Topic 1 - pandas and basic EDA
+
+Topic progress table:
+
+00 Intro - DONE
+01 Pandas - NOT STARTED
+02 Visual Data Analysis - NOT STARTED
+03 Trees / KNN / Cross-validation - NOT STARTED
+04 Linear Models - NOT STARTED
+05 Bagging / Random Forest - NOT STARTED
+06 Feature Engineering - NOT STARTED
+07 Unsupervised Learning - NOT STARTED
+08 SGD / Vowpal Wabbit - NOT STARTED
+09 Time Series - NOT STARTED
+10 Gradient Boosting - NOT STARTED
