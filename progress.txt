@@ -12,3 +12,17 @@
 | 09 Time Series | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not started |
 | 10 Gradient Boosting | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Not started |
 
+
+[APPROVED] Stage 0 — Course repository setup
+
+Done:
+- local repo created
+- Git initialized
+- develop branch created
+- GitHub push completed
+- base course structure created
+
+Next:
+- Intro / Lecture 0
+- notes/00_intro.md
+- reports/00_intro_report.md
